@@ -1,2 +1,2 @@
-# c-server
-Um servidor leve em C
+# cpp-server
+Um servidor leve em C++
